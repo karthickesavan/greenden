@@ -25,26 +25,7 @@ Responsive design using Tailwind CSS
 Technologies Used
 HTML5
 Tailwind CSS
-VS Code
-Project Structure
-Greenden/
-│
-├── images/
-│   ├── header-image.jpg
-│   ├── about-image.jpg
-│   ├── plant-1.jpg
-│   ├── plant-2.jpg
-│   ├── plant-3.jpg
-│   ├── plant-4.jpg
-│   ├── plant-5.jpg
-│   └── plant-6.jpg
-│
-├── index.html
-├── product.html
-├── contact.html
-└── README.md
-Pages
-Home Page
+
 
 The home page includes:
 
